@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SimpleInputManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SimpleInputManager",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
